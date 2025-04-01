@@ -1,0 +1,10 @@
+{
+    "url": "https://t.me/jettoncheck_bot",  
+    "name": "RUBETON Access Bot",
+    "iconUrl": "https://rubeton.example.com/icon.png",  
+    "termsOfUseUrl": "https://rubeton.example.com/terms",
+    "privacyPolicyUrl": "https://rubeton.example.com/privacy",
+    "bridgeUrl": "https://bridge.tonapi.io/bridge",
+    "platforms": ["telegram"]
+  }
+  
